@@ -1,0 +1,65 @@
+Artifical Intelligence
+    Machine Learning
+
+        Supervised (Oбучение с учител,  Learning with labeled data):
+            Neural Networks:
+                Deep Learning
+                    LLM:
+                        ChatGPT
+
+            Problem: lack of data
+
+        Classical ML Algorithms:
+            Decision Trees
+            Random Forest
+            SVM
+            KNN
+            Linear Regression
+            Logistic Regression
+            Bayesian Methods
+            Neural Networks
+
+        Classification vs Regression:
+
+            Regression:
+                Predict continuous values
+                Examples: House Prices, Stock Prices
+
+            Classification:
+                Predict discrete labels
+                Examples: Spam Detection, Image Recognition
+
+
+Unsupervised:
+    Neural Networks:
+        Applications:Data Clustering; Dimenssionality Reductions
+
+Reinforcment Learning:
+
+
+
+
+LLM:
+Навън времето е горещо (45%)
+Навън времето е телефон (5%)
+
+RAG:
+    Retrieval Augmented Generation
+
+
+
+Open Source:
+    Github:
+
+Course Tools:
+    Python 3: Windows Install
+    VSCode:
+    Zoom: How to share screen
+
+
+    Jupyter Notebooks
+    Google Colab
+
+
+
+

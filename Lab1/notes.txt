@@ -1,0 +1,19 @@
+ChatGPT, Gemini, Claude, Grock, Copilot, Mistrall => LLM (Large Language Models)
+
+GPT: Generative Pretrained  Transformers
+
+Hugging Face == Github
+
+Prompt:
+Prompt Engineering
+Prompt Injection
+
+
+Hardware:
+CPU
+
+GPU = Graphical Processing Unit
+TPU = Tensor Processing Unit
+
+
+
