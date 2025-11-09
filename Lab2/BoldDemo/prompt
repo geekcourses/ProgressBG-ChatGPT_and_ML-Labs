@@ -1,0 +1,7 @@
+Build a single-file React and Tailwind CSS application. The entire screen must display a background color. In the center of the screen, place a large button that says 'Change Color'.
+
+When the 'Change Color' button is clicked, a random, vibrant hexadecimal color should be generated.
+
+The application's background color should immediately update to this new color.
+
+The text of the button and the text in the center must always be black or white so it is readable against the random background color. Ensure the entire code is written exclusively within the App.tsx.
