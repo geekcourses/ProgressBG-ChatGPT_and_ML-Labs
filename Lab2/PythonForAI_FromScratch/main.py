@@ -108,10 +108,9 @@
 # print(birth_date[0])
 
 
-
-names = ('ada', 'maria')
-names[0] = 'pesho'
-print(names)
+# names = ('ada', 'maria')
+# names[0] = 'pesho'
+# print(names)
 
 ### Numbers are IMMUTABLE!
 # x = 5
