@@ -7,15 +7,14 @@ def greet(user_name):
     print('*' * 30)
 
 def get_user_name():
-    user_name = input('Enter your name: ')
-    print(isinstance(user_name, str))
+    user_name = input('Enter your name: ') # ada
 
-    if not isinstance(user_name, str):
+
+    if user_name.isalpha():
+        return user_name   #ada
+    else:
         print('Wrong Input')
         exit()
-    else:
-        return user_name
-
 
 user_name = get_user_name()
 greet(user_name)
